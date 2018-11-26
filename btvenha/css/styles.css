@@ -1,0 +1,108 @@
+body{
+	background-image: url('../image/background1.jpeg');
+	background-size: cover;
+}
+#header{
+	margin-top: 30px;
+	margin-left: 100px;
+	margin-bottom: 100px;
+}
+#span-header{
+	text-align: center;
+	color: red;
+}
+#span-large-header{
+	padding-top: 20px;
+	font-size: 50px;
+	font-weight: 550;
+}
+#btn-start span{
+	text-align: center;
+	font-size: 40px;
+	color: white;
+	font-weight: 550;
+}
+#btn-start{
+	background-color: red;
+    margin-right: 45%;
+    margin-left: 45%;
+    cursor: pointer;
+    border-radius: 81px;
+    height: 144px;
+    padding-top: 38px;
+}
+#header-qs{
+	margin-top: 30px;
+	margin-left: 100px;
+	margin-bottom: 50px;
+}
+#span-header-qs{
+	background-color: #ff9898;
+	height: 200px;
+	border-radius: 20px;
+	padding-top: 20px;
+	padding-left: 30px;
+}
+#body-qs{
+	margin-left: 100px;
+}
+.index-qs{
+	font-size: 25px;
+	padding-top: 15px;
+
+}
+.name-qs{
+	margin-left: 40px;
+	background-color: #5eb1ff;
+	height: 60px;
+	width: 80px;
+	border-radius: 30px;
+	margin-bottom: 15px;
+	padding-left: 30px;
+}
+.sp-name-qs{
+	font-size: 30px;
+	padding-top: 6px;
+	color: white;
+	font-weight: 600;
+}
+.value-qs{
+	background-color: #5eb1ff;
+	height: 60px;
+	border-radius: 20px;
+	margin-bottom: 15px;
+	padding-top: 10px;
+	text-align: left;
+	padding-left: 30px;
+	cursor: pointer;
+}
+#question{
+	display: none;
+}
+#btn-next span{
+	font-size: 35px;
+	color: white;
+	font-weight: 550;
+}
+#btn-next{
+	text-align: center;
+	background-color: red;
+	width: 160px;
+	margin-left: 120px;
+	margin-top: 50px;
+	cursor: pointer;
+	border-radius: 15px;
+}
+#result{
+	display: none;
+}
+#end-game{
+	text-align: center;
+	display: none;
+	padding-top: 150px;
+}
+#end-game span{
+	color: red;
+	font-size: 60px;
+	font-weight: 550;
+}
